@@ -1,0 +1,54 @@
+body {
+    background-color: gray;
+    max-width: 500px;
+    margin: auto;
+    
+}
+
+.photo{
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.sub_title, .post_title{
+    color: dimgrey;
+    margin: 15px 0 15px 0;
+}
+
+.capa{
+    background-color: white;
+    border: 1px solid rgb(241, 237, 237);
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.section{
+    background-color: white;
+    padding: 10px 5px 5px 10px;
+    border: 1px solid white; 
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.subsection{
+    margin: 10px;
+}
+
+.text{
+    margin: 0 5px 15px 0;
+    text-align: justify;
+}
+
+.list{
+    list-style-type: none;
+    padding: 0 0 0 15px;
+}
+
+.rodape{
+    padding: 5px;
+    background-color: white;
+    margin-top: 15px;
+    border-top: 1px solid gray;
+    border-radius: 10px;
+}
